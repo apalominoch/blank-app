@@ -10,4 +10,4 @@ st.subheader('Add new trades:')
 new_trades = pd.DataFrame(columns=data.columns)
 edited = st.data_editor(new_trades,num_rows='dynamic')
 
-st.write('here is where the calcs would appear but not pasting my code here')
+st.write('new version - here is where the calcs would appear but not pasting my code here')
